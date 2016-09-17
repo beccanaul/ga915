@@ -1,0 +1,29 @@
+body {
+  margin: 0 30%;
+  max-width: 250em;
+  line-height: 1.5;
+  padding: 4em 1em;
+  background: lightblue;
+}
+
+
+h1 {
+  color: white;
+  font-family: 'David Libre', serif;
+  margin-top: 1em;
+  padding-top: 1em;
+}
+
+code,
+pre {
+  background: #eee;
+}
+
+code {
+  padding: 2px 4px;
+  vertical-align: text-bottom;
+}
+
+pre {
+  padding: 1em;
+}
