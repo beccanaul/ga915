@@ -27,3 +27,12 @@ code {
 pre {
   padding: 1em;
 }
+
+.hello {
+  /*margin: 50% auto;*/
+  height: 60%;
+}
+
+.itsme {
+  margin: 0px 0px 150px 0px;
+}
