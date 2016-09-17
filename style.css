@@ -1,18 +1,16 @@
 body {
-  margin: 0 30%;
-  max-width: 250em;
-  line-height: 1.5;
-  padding: 4em 1em;
   background: lightgray;
+  margin: 0;
 }
-
-
 
 h1 {
   color: white;
   font-family: 'David Libre', serif;
   margin-top: 1em;
-  padding-top: 1em;
+  padding-top: 2em;
+  margin: 0 30%;
+  max-width: 250em;
+  line-height: 1.5;
 }
 
 code,
@@ -30,7 +28,6 @@ pre {
 }
 
 .hello {
-  /*margin: 50% auto;*/
   height: 60%;
 }
 
@@ -38,7 +35,8 @@ pre {
   margin: 0px 0px 150px 0px;
 }
 
-.pic {
-  magin: 0px 0px 0px -300px;
-  size: 50%;
+img {
+  max-width: 100%;
+  margin-top: 10em;
+  opacity: .2;
 }
