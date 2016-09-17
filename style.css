@@ -3,8 +3,9 @@ body {
   max-width: 250em;
   line-height: 1.5;
   padding: 4em 1em;
-  background: lightblue;
+  background: lightgray;
 }
+
 
 
 h1 {
@@ -35,4 +36,9 @@ pre {
 
 .itsme {
   margin: 0px 0px 150px 0px;
+}
+
+.pic {
+  magin: 0px 0px 0px -300px;
+  size: 50%;
 }
